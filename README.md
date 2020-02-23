@@ -1,4 +1,8 @@
-## Deployed version: https://react-lifecyrcle-exercise.netlify.com/
+##Description
+The main goal of this exercise is to be able to manage Lifecyrcle on React
+
+## Deployed version: 
+https://react-lifecyrcle-exercise.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
